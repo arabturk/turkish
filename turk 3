@@ -1,0 +1,1055 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="trspor.tr" tvg-name="|TR| TRSPOR HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="TURKEY", 1|TR| TRSPOR HD
+http://37.221.122.86:8383/trspor.ts
+#EXTINF: -1 tvg-id="beinfutbol.tr" tvg-name="|TR| beIN FUTBOL HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="TURKEY", 2|TR| beIN FUTBOL HD
+http://37.221.122.86:8383/trspor.ts
+#EXTINF: -1 tvg-id="beinsports.tr" tvg-name="|TR| BEİNSPORTS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="TURKEY", 3|TR| BEINSPORTS 1 HD
+http://37.221.122.86:8383/trspor.ts
+#EXTINF: -1 tvg-id="beinsports.tr" tvg-name="|TR| BEİNSPORTS HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="TURKEY", 4|TR| BEINSPORTS VİP 1 HD
+http://37.221.122.86:8383/hls/trspor/playlist.m3u8
+#EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" group-title="TURKEY", TR:TRT 1 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/8911
+#EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 SD" group-title="TURKEY", TR:TRT 1 SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1550
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:TRT 2 HD" group-title="TURKEY", TR:TRT 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/175
+#EXTINF: -1 tvg-id="ATV.tr" tvg-name="TR:ATV HD" group-title="TURKEY", TR:ATV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/173
+#EXTINF: -1 tvg-id="ATV.tr" tvg-name="TR:ATV SD" group-title="TURKEY", TR:ATV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1549
+#EXTINF: -1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV HD" group-title="TURKEY", TR:SHOW TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/167
+#EXTINF: -1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV SD" group-title="TURKEY", TR:SHOW TV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1548
+#EXTINF: -1 tvg-id="StarHD.tr" tvg-name="TR:STAR TV HD" group-title="TURKEY", TR:STAR TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/166
+#EXTINF: -1 tvg-id="Start.tr" tvg-name="TR:STAR TV SD" group-title="TURKEY", TR:STAR TV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1547
+#EXTINF: -1 tvg-id="KanalD.tr" tvg-name="TR:KANAL D HD" group-title="TURKEY", TR:KANAL D HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/165
+#EXTINF: -1 tvg-id="KanalD.tr" tvg-name="TR:KANAL D SD" group-title="TURKEY", TR:KANAL D SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1546
+#EXTINF: -1 tvg-id="Fox.tr" tvg-name="TR:FOX TV HD" group-title="TURKEY", TR:FOX TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/172
+#EXTINF: -1 tvg-id="Fox.tr" tvg-name="TR:FOX TV SD" group-title="TURKEY", TR:FOX TV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1545
+#EXTINF: -1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HD" group-title="TURKEY", TR:TV 8 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/169
+#EXTINF: -1 tvg-id="TV8.tr" tvg-name="TR:TV 8 SD" group-title="TURKEY", TR:TV 8 SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1544
+#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR:TV 8.5 HD" group-title="TURKEY", TR:TV 8.5 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1541
+#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR:TV 8.5 SD" group-title="TURKEY", TR:TV 8.5 SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6375
+#EXTINF: -1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 HD" group-title="TURKEY", TR:KANAL 7 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/170
+#EXTINF: -1 tvg-id="Kanal7.tr" tvg-name="TR:KANAL 7 SD" group-title="TURKEY", TR:KANAL 7 SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1543
+#EXTINF: -1 tvg-name="TR:KANAL 7 AVRUPA HD" group-title="TURKEY", TR:KANAL 7 AVRUPA HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19762
+#EXTINF: -1 tvg-name="TR:KANAL AVRUPA" group-title="TURKEY", TR:KANAL AVRUPA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1523
+#EXTINF: -1 tvg-id="BEYAZTV.tr" tvg-name="TR:BEYAZ TV HD" group-title="TURKEY", TR:BEYAZ TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/171
+#EXTINF: -1 tvg-id="BEYAZTV.tr" tvg-name="TR:BEYAZ TV SD" group-title="TURKEY", TR:BEYAZ TV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1542
+#EXTINF: -1 tvg-name="TR:A2 HD" group-title="TURKEY", TR:A2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/174
+#EXTINF: -1 tvg-name="TR:UCANKUS TV" group-title="TURKEY", TR:UCANKUS TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/8699
+#EXTINF: -1 tvg-id="SkyTurk360.tr" tvg-name="TR:360 TV HD" group-title="TURKEY", TR:360 TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1540
+#EXTINF: -1 tvg-name="TR:TEVE 2 HD" group-title="TURKEY", TR:TEVE 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/163
+#EXTINF: -1 tvg-name="TR:KANAL 3" group-title="TURKEY", TR:KANAL 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1532
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:EURO D" group-title="TURKEY", TR:EURO D
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1535
+#EXTINF: -1 tvg-id="Start.tr" tvg-name="TR:EURO STAR" group-title="TURKEY", TR:EURO STAR
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1536
+#EXTINF: -1 tvg-name="TR:ATV AVRUPA" group-title="TURKEY", TR:ATV AVRUPA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1539
+#EXTINF: -1 tvg-id="Showmax.tr" tvg-name="TR:SHOW MAX HD" group-title="TURKEY", TR:SHOW MAX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1537
+#EXTINF: -1 tvg-name="TR:SHOW TURK" group-title="TURKEY", TR:SHOW TURK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1538
+#EXTINF: -1 tvg-name="TR:TGRT EU SD" group-title="TURKEY", TR:TGRT EU SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1559
+#EXTINF: -1 tvg-name="TR:CEM TV" group-title="TURKEY", TR:CEM TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1528
+#EXTINF: -1 tvg-name="TR:KANAL 26" group-title="TURKEY", TR:KANAL 26
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1531
+#EXTINF: -1 tvg-name="TR:KAYSERI TV" group-title="TURKEY", TR:KAYSERI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1527
+#EXTINF: -1 tvg-name="TR:MAVI KARADENIZ TV" group-title="TURKEY", TR:MAVI KARADENIZ TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1522
+#EXTINF: -1 tvg-name="TR:AKSU TV" group-title="TURKEY", TR:AKSU TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1526
+#EXTINF: -1 tvg-id="TRTAVAZ.tr" tvg-name="TR:TRT AVAZ" group-title="TURKEY", TR:TRT AVAZ
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1525
+#EXTINF: -1 tvg-id="TRTDIYANET.tr" tvg-name="TR:TRT DIYANET" group-title="TURKEY", TR:TRT DIYANET
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1524
+#EXTINF: -1 tvg-name="TR:VATAN TV" group-title="TURKEY", TR:VATAN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1530
+#EXTINF: -1 tvg-name="TR:RUMELI TV" group-title="TURKEY", TR:RUMELI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6431
+#EXTINF: -1 tvg-id="SemerkandTV.tr" tvg-name="TR:SEMERKAND TV" group-title="TURKEY", TR:SEMERKAND TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4974
+#EXTINF: -1 tvg-name="TR:TV 5 SD" group-title="TURKEY", TR:TV 5 SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17420
+#EXTINF: -1 tvg-name="TR:TV 4" group-title="TURKEY", TR:TV 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4975
+#EXTINF: -1 tvg-name="TR:CAN TV" group-title="TURKEY", TR:CAN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4979
+#EXTINF: -1 tvg-name="TR:MOR TV" group-title="TURKEY", TR:MOR TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4983
+#EXTINF: -1 tvg-name="TR:KON TV" group-title="TURKEY", TR:KON TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5023
+#EXTINF: -1 tvg-name="TR:SRT TV" group-title="TURKEY", TR:SRT TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6880
+#EXTINF: -1 tvg-name="TR:KOY TV" group-title="TURKEY", TR:KOY TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6294
+#EXTINF: -1 tvg-name="TR:BENGUTURK TV" group-title="TURKEY", TR:BENGUTURK TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/16426
+#EXTINF: -1 tvg-name="TR:CIFTCI TV" group-title="TURKEY", TR:CIFTCI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6883
+#EXTINF: -1 tvg-name="TR:TV EM" group-title="TURKEY", TR:TV EM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9581
+#EXTINF: -1 tvg-name="TR:4 TV HD" group-title="TURKEY", TR:4 TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9585
+#EXTINF: -1 tvg-name="TR:ES TV" group-title="TURKEY", TR:ES TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18406
+#EXTINF: -1 tvg-name="TR:Erzurum Büyükşehir Belediyesi TV" group-title="TURKEY", TR:Erzurum Büyükşehir Belediyesi TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5185
+#EXTINF: -1 tvg-name="TR:TR6 TV" group-title="TURKEY", TR:TR6 TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5187
+#EXTINF: -1 tvg-name="TR:Siteler TV" group-title="TURKEY", TR:Siteler TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5195
+#EXTINF: -1 tvg-name="TR:Sinop Yildiz TV" group-title="TURKEY", TR:Sinop Yildiz TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5196
+#EXTINF: -1 tvg-name="TR:Sakarya TV" group-title="TURKEY", TR:Sakarya TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5198
+#EXTINF: -1 tvg-name="TR:REHBER TV" group-title="TURKEY", TR:REHBER TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5199
+#EXTINF: -1 tvg-name="TR:Royal TV" group-title="TURKEY", TR:Royal TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5200
+#EXTINF: -1 tvg-name="TR:KANAL T" group-title="TURKEY", TR:KANAL T
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5221
+#EXTINF: -1 tvg-name="TR:KANAL 101" group-title="TURKEY", TR:KANAL 101
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5225
+#EXTINF: -1 tvg-name="TR:KANAL 19" group-title="TURKEY", TR:KANAL 19
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5230
+#EXTINF: -1 tvg-name="TR:Erzurum Web TV" group-title="TURKEY", TR:Erzurum Web TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5240
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:BODRUM BELEDIYESI TV" group-title="TURKEY", TR:BODRUM BELEDIYESI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5246
+#EXTINF: -1 tvg-name="TR:Doğuş TV" group-title="TURKEY", TR:Doğuş TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5252
+#EXTINF: -1 tvg-name="TR:KANAL A ALANYA" group-title="TURKEY", TR:KANAL A ALANYA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5255
+#EXTINF: -1 tvg-name="TR:Briç ve Satranç TV" group-title="TURKEY", TR:Briç ve Satranç TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5273
+#EXTINF: -1 tvg-name="TR:Beşiktaş Belediyesi Web TV" group-title="TURKEY", TR:Beşiktaş Belediyesi Web TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5277
+#EXTINF: -1 tvg-name="TR:BURSA TV" group-title="TURKEY", TR:BURSA TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5279
+#EXTINF: -1 tvg-name="TR:Alanya Posta TV" group-title="TURKEY", TR:Alanya Posta TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5285
+#EXTINF: -1 tvg-name="TR:Ahi TV" group-title="TURKEY", TR:Ahi TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5289
+#EXTINF: -1 tvg-name="TR:Afyon Türk TV" group-title="TURKEY", TR:Afyon Türk TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5290
+#EXTINF: -1 tvg-id="24.tr" tvg-name="TR:24 TV" group-title="TURKEY", TR:24 TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5292
+#EXTINF: -1 tvg-name="TR:ORDU TV" group-title="TURKEY", TR:ORDU TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9330
+#EXTINF: -1 tvg-name="TR:KARDELEN TV" group-title="TURKEY", TR:KARDELEN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9331
+#EXTINF: -1 tvg-name="TR:VUSLAT TV" group-title="TURKEY", TR:VUSLAT TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9334
+#EXTINF: -1 tvg-name="TR:YOL TV" group-title="TURKEY", TR:YOL TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/8700
+#EXTINF: -1 tvg-id="KanalB.tr" tvg-name="TR:KANAL B" group-title="TURKEY", TR:KANAL B
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15076
+#EXTINF: -1 tvg-name="TR:AKILLI TV" group-title="TURKEY", TR:AKILLI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15077
+#EXTINF: -1 tvg-name="TR:VIZYON 58" group-title="TURKEY", TR:VIZYON 58
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15078
+#EXTINF: -1 tvg-name="TR:KANAL URFA" group-title="TURKEY", TR:KANAL URFA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15081
+#EXTINF: -1 tvg-name="TR:GUNEYDOGU TV" group-title="TURKEY", TR:GUNEYDOGU TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15082
+#EXTINF: -1 tvg-name="TR:EGE TV" group-title="TURKEY", TR:EGE TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15083
+#EXTINF: -1 tvg-name="TR:CAY TV" group-title="TURKEY", TR:CAY TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15084
+#EXTINF: -1 tvg-name="TR:KUDUS TV" group-title="TURKEY", TR:KUDUS TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15087
+#EXTINF: -1 tvg-name="TR:KABE TV" group-title="TURKEY", TR:KABE TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15088
+#EXTINF: -1 tvg-name="TR:DIYANET TV" group-title="TURKEY", TR:DIYANET TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15089
+#EXTINF: -1 tvg-id="Dost TV TR" tvg-name="TR:DOST TV" group-title="TURKEY", TR:DOST TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/9326
+#EXTINF: -1 tvg-name="TR:MELTEM TV" group-title="TURKEY", TR:MELTEM TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17662
+#EXTINF: -1 tvg-name="TR:LALEGUL TV" group-title="TURKEY", TR:LALEGUL TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4981
+#EXTINF: -1 tvg-name="TR:MEDINE TV" group-title="TURKEY", TR:MEDINE TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17663
+#EXTINF: -1 tvg-name="TR:FINANSTURK TV" group-title="TURKEY", TR:FINANSTURK TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15125
+#EXTINF: -1 tvg-name="TR:BRUKSEL TURK TV" group-title="TURKEY", TR:BRUKSEL TURK TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19925
+#EXTINF: -1 tvg-name="TR:FASHION TV" group-title="TURKEY", TR:FASHION TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19926
+#EXTINF: -1 tvg-name="TR:TV 35 HD" group-title="TURKEY", TR:TV 35 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19927
+#EXTINF: -1 tvg-name="TR:ORDU ALTAS TV" group-title="TURKEY", TR:ORDU ALTAS TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20706
+#EXTINF: -1 tvg-name="TR:TV 52" group-title="TURKEY", TR:TV 52
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20844
+#EXTINF: -1 tvg-name="TR:TRT EBA ILKOKUL" group-title="TURKEY", TR:TRT EBA ILKOKUL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/14719
+#EXTINF: -1 tvg-name="TR:TRT EBA ORTAOKUL" group-title="TURKEY", TR:TRT EBA ORTAOKUL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/14720
+#EXTINF: -1 tvg-name="TR:TRT EBA LISE" group-title="TURKEY", TR:TRT EBA LISE
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/14721
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:TIVIBUSPOR-1 HD" group-title="TURKEY", TR:TIVIBUSPOR-1 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/154
+#EXTINF: -1 tvg-name="TR:TIVIBUSPOR-2 HD" group-title="TURKEY", TR:TIVIBUSPOR-2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/153
+#EXTINF: -1 tvg-name="TR:TIVIBUSPOR-3 HD" group-title="TURKEY", TR:TIVIBUSPOR-3 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/152
+#EXTINF: -1 tvg-name="TR:TIVIBUSPOR 4 WEB" group-title="TURKEY", TR:TIVIBUSPOR 4 WEB
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43953
+#EXTINF: -1 tvg-name="TR:SMARTSPOR HD" group-title="TURKEY", TR:SMARTSPOR HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6289
+#EXTINF: -1 tvg-name="TR:SMARTSPOR HD*" group-title="TURKEY", TR:SMARTSPOR HD*
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/150
+#EXTINF: -1 tvg-name="TR:SMARTSPOR 2 FHD" group-title="TURKEY", TR:SMARTSPOR 2 FHD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17212
+#EXTINF: -1 tvg-name="TR:FIGHT NETWORK HD" group-title="TURKEY", TR:FIGHT NETWORK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21065
+#EXTINF: -1 tvg-name="TR:EUROSPORT 1 HD" group-title="TURKEY", TR:EUROSPORT 1 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/148
+#EXTINF: -1 tvg-id="Eurosport2.tr" tvg-name="TR:EUROSPORT 2 HD" group-title="TURKEY", TR:EUROSPORT 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/147
+#EXTINF: -1 tvg-name="TR:GS TV HD" group-title="TURKEY", TR:GS TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/146
+#EXTINF: -1 tvg-id="FBTV.tr" tvg-name="TR:FB TV HD" group-title="TURKEY", TR:FB TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/145
+#EXTINF: -1 tvg-id="SportsTV.tr" tvg-name="TR:SPORTS TV HD" group-title="TURKEY", TR:SPORTS TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/144
+#EXTINF: -1 tvg-name="TR:TJK TV HD" group-title="TURKEY", TR:TJK TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/142
+#EXTINF: -1 tvg-id="ASpor.tr" tvg-name="TR:A SPOR HD" group-title="TURKEY", TR:A SPOR HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/141
+#EXTINF: -1 tvg-id="TRTSPOR.tr" tvg-name="TR:TRT SPOR HD" group-title="TURKEY", TR:TRT SPOR HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/140
+#EXTINF: -1 tvg-name="TR:TRT SPOR 2 HD" group-title="TURKEY", TR:TRT SPOR 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/8910
+#EXTINF: -1 tvg-name="TR:TAY TV" group-title="TURKEY", TR:TAY TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/4966
+#EXTINF: -1 tvg-name="TR:EXXEN TV" group-title="TURKEY", TR:EXXEN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44118
+#EXTINF: -1 tvg-name="TR:EXXEN 2 TV" group-title="TURKEY", TR:EXXEN 2 TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44135
+#EXTINF: -1 tvg-name="TR:EXXEN 3 TV" group-title="TURKEY", TR:EXXEN 3 TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44136
+#EXTINF: -1 tvg-id="SSport.tr" tvg-name="TR:TURKEY HD" group-title="TURKEY", TR:TURKEY HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19419
+#EXTINF: -1 tvg-name="TR:TURKEY 2 HD" group-title="TURKEY", TR:TURKEY 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19418
+#EXTINF: -1 tvg-id="SSport.tr" tvg-name="TR:TURKEY 1 UHD" group-title="TURKEY", TR:TURKEY 1 UHD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19417
+#EXTINF: -1 tvg-name="TR:TURKEY 2 UHD" group-title="TURKEY", TR:TURKEY 2 UHD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19416
+#EXTINF: -1 tvg-name="TR:TURKEY PLUS" group-title="TURKEY", TR:TURKEY PLUS
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24302
+#EXTINF: -1 tvg-name="TR:S SPORT +1 MAC SAATI AKTIF" group-title="TURKEY", TR:S SPORT +1 MAC SAATI AKTIF
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44345
+#EXTINF: -1 tvg-name="TR:S SPORT +2 MAC SAATI AKTIF" group-title="TURKEY", TR:S SPORT +2 MAC SAATI AKTIF
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44346
+#EXTINF: -1 tvg-name="TR:S SPORT +3 MAC SAATI AKTIF" group-title="TURKEY", TR:S SPORT +3 MAC SAATI AKTIF
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44347
+#EXTINF: -1 tvg-name="TR:S SPORT +4 MAC SAATI AKTIF" group-title="TURKEY", TR:S SPORT +4 MAC SAATI AKTIF
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44348
+#EXTINF: -1 tvg-name="TR:S SPORT +5 MAC SAATI AKTIF" group-title="TURKEY", TR:S SPORT +5 MAC SAATI AKTIF
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/44349
+#EXTINF: -1 tvg-name="TR:TV 100 HD" group-title="TURKEY", TR:TV 100 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/195
+#EXTINF: -1 tvg-name="TR:NTV HD" group-title="TURKEY", TR:NTV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19576
+#EXTINF: -1 tvg-name="TR:ULUSAL TV HD" group-title="TURKEY", TR:ULUSAL TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/194
+#EXTINF: -1 tvg-id="TVNet.tr" tvg-name="TR:TVNET HD" group-title="TURKEY", TR:TVNET HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/192
+#EXTINF: -1 tvg-id="UlkeTV.tr" tvg-name="TR:ULKE TV HD" group-title="TURKEY", TR:ULKE TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/191
+#EXTINF: -1 tvg-name="TR:HALK TV HD" group-title="TURKEY", TR:HALK TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/190
+#EXTINF: -1 tvg-name="TR:HALK TV SD" group-title="TURKEY", TR:HALK TV SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1560
+#EXTINF: -1 tvg-name="TR:KRT TV HD" group-title="TURKEY", TR:KRT TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/189
+#EXTINF: -1 tvg-id="TRTturk.tr" tvg-name="TR:TRT TURK HD" group-title="TURKEY", TR:TRT TURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/188
+#EXTINF: -1 tvg-id="TRTturk.tr" tvg-name="TR:TRT TURK SD" group-title="TURKEY", TR:TRT TURK SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1562
+#EXTINF: -1 tvg-id="TRTHaber.tr" tvg-name="TR:TRT HABER HD" group-title="TURKEY", TR:TRT HABER HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/187
+#EXTINF: -1 tvg-id="TRTHaber.tr" tvg-name="TR:TRT HABER SD" group-title="TURKEY", TR:TRT HABER SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1561
+#EXTINF: -1 tvg-name="TR:AKIT TV HD" group-title="TURKEY", TR:AKIT TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5881
+#EXTINF: -1 tvg-name="TR:EKOTURK HD" group-title="TURKEY", TR:EKOTURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/186
+#EXTINF: -1 tvg-id="BloombergHT.tr" tvg-name="TR:BLOOMBERGHT HD" group-title="TURKEY", TR:BLOOMBERGHT HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/185
+#EXTINF: -1 tvg-name="TR:A PARA HD" group-title="TURKEY", TR:A PARA HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/184
+#EXTINF: -1 tvg-id="AHaber.tr" tvg-name="TR:A HABER HD" group-title="TURKEY", TR:A HABER HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/183
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:TELE 1 HD" group-title="TURKEY", TR:TELE 1 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/162
+#EXTINF: -1 tvg-name="TR:GLOBAL HABER HD" group-title="TURKEY", TR:GLOBAL HABER HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/182
+#EXTINF: -1 tvg-id="CNNTURK.tr" tvg-name="TR:CNN TURK HD" group-title="TURKEY", TR:CNN TURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/181
+#EXTINF: -1 tvg-id="CNNTURK.tr" tvg-name="TR:CNN TURK SD" group-title="TURKEY", TR:CNN TURK SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1563
+#EXTINF: -1 tvg-id="HABERTURK.tr" tvg-name="TR:HABERTURK HD" group-title="TURKEY", TR:HABERTURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/180
+#EXTINF: -1 tvg-name="TR:TGRT HABER SD" group-title="TURKEY", TR:TGRT HABER SD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/1558
+#EXTINF: -1 tvg-name="TR:TGRT HABER HD" group-title="TURKEY", TR:TGRT HABER HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/178
+#EXTINF: -1 tvg-name="TR:KANAL 24 HD" group-title="TURKEY", TR:KANAL 24 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/177
+#EXTINF: -1 tvg-name="TR:HABER 61 TV" group-title="TURKEY", TR:HABER 61 TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18031
+#EXTINF: -1 tvg-name="TR:ARTI TV" group-title="TURKEY", TR:ARTI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18288
+#EXTINF: -1 tvg-id="TLC.tr" tvg-name="TR:TLC HD" group-title="TURKEY", TR:TLC HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/193
+#EXTINF: -1 tvg-id="Yaban TV TR" tvg-name="TR:YABAN TV HD" group-title="TURKEY", TR:YABAN TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/232
+#EXTINF: -1 tvg-id="TRTBelgesel.tr" tvg-name="TR:TRT BELGESEL HD" group-title="TURKEY", TR:TRT BELGESEL HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/231
+#EXTINF: -1 tvg-id="24Kitchen.tr" tvg-name="TR:24 KiTCHEN HD" group-title="TURKEY", TR:24 KiTCHEN HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/360
+#EXTINF: -1 tvg-id="NatGeoWild.tr" tvg-name="TR:NAT GEO WILD HD" group-title="TURKEY", TR:NAT GEO WILD HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/230
+#EXTINF: -1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="TR:NATIONAL GEOGRAPHIC HD" group-title="TURKEY", TR:NATIONAL GEOGRAPHIC HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/229
+#EXTINF: -1 tvg-name="TR:DISCOVERY CHANNEL HD" group-title="TURKEY", TR:DISCOVERY CHANNEL HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/227
+#EXTINF: -1 tvg-name="TR:DISCOVERY SCIENCE HD" group-title="TURKEY", TR:DISCOVERY SCIENCE HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/225
+#EXTINF: -1 tvg-name="TR:DISCOVERY ID HD" group-title="TURKEY", TR:DISCOVERY ID HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/224
+#EXTINF: -1 tvg-name="TR:NHT TV" group-title="TURKEY", TR:NHT TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21063
+#EXTINF: -1 tvg-id="AnimalPlanet.tr" tvg-name="TR:ANiMAL PLANET HD" group-title="TURKEY", TR:ANiMAL PLANET HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/221
+#EXTINF: -1 tvg-name="TR:DMAX HD" group-title="TURKEY", TR:DMAX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/219
+#EXTINF: -1 tvg-name="TR:DOCUBOX HD" group-title="TURKEY", TR:DOCUBOX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43844
+#EXTINF: -1 tvg-id="TRTCocuk.tr" tvg-name="TR:TRT COCUK HD" group-title="TURKEY", TR:TRT COCUK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/209
+#EXTINF: -1 tvg-name="TR:BOOMERANG HD" group-title="TURKEY", TR:BOOMERANG HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/200
+#EXTINF: -1 tvg-id="SmartCocuk.tr" tvg-name="TR:SMART COCUK HD" group-title="TURKEY", TR:SMART COCUK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/359
+#EXTINF: -1 tvg-id="CartoonNetwork.tr" tvg-name="TR:CARTOON NETWORK HD" group-title="TURKEY", TR:CARTOON NETWORK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/199
+#EXTINF: -1 tvg-id="MinikaGo.tr" tvg-name="TR:MINICA GO HD" group-title="TURKEY", TR:MINICA GO HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/198
+#EXTINF: -1 tvg-id="MinikaCocuk.tr" tvg-name="TR:MINIKA COCUK HD" group-title="TURKEY", TR:MINIKA COCUK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/197
+#EXTINF: -1 tvg-name="TR:KUKULI TV" group-title="TURKEY", TR:KUKULI TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/15897
+#EXTINF: -1 tvg-name="TR:Adisebaba Masallar" group-title="TURKEY", TR:Adisebaba Masallar
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19978
+#EXTINF: -1 tvg-name="TR:HT PREMIUM KIDS" group-title="TURKEY", TR:HT PREMIUM KIDS
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19979
+#EXTINF: -1 tvg-name="TR:PEPPA PIG TURKCE" group-title="TURKEY", TR:PEPPA PIG TURKCE
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19980
+#EXTINF: -1 tvg-name="TR:Ten Ten TV" group-title="TURKEY", TR:Ten Ten TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19981
+#EXTINF: -1 tvg-name="TR:VIP NETFLIX MULTI LANGUAGE" group-title="TURKEY", TR:VIP NETFLIX MULTI LANGUAGE
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19901
+#EXTINF: -1 tvg-name="TR:MOVIE SMART CLASSIC HD" group-title="TURKEY", TR:MOVIE SMART CLASSIC HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/336
+#EXTINF: -1 tvg-name="TR:MOVIE SMART PREMIUM HD" group-title="TURKEY", TR:MOVIE SMART PREMIUM HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/344
+#EXTINF: -1 tvg-name="TR:MOVIE SMART PREMIUM 2 HD" group-title="TURKEY", TR:MOVIE SMART PREMIUM 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/343
+#EXTINF: -1 tvg-name="TR:MOVIE SMART TURK HD" group-title="TURKEY", TR:MOVIE SMART TURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/345
+#EXTINF: -1 tvg-name="TR:SINEMA TV 1001 HD" group-title="TURKEY", TR:SINEMA TV 1001 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20962
+#EXTINF: -1 tvg-name="TR:SINEMA TV 1002 HD" group-title="TURKEY", TR:SINEMA TV 1002 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20963
+#EXTINF: -1 tvg-name="TR:SINEMA TV 2 HD" group-title="TURKEY", TR:SINEMA TV 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20964
+#EXTINF: -1 tvg-name="TR:SINEMA TV AILE 2 HD" group-title="TURKEY", TR:SINEMA TV AILE 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20965
+#EXTINF: -1 tvg-name="TR:SINEMA TV AILE HD" group-title="TURKEY", TR:SINEMA TV AILE HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20966
+#EXTINF: -1 tvg-name="TR:SINEMA TV AKSIYON 2 HD" group-title="TURKEY", TR:SINEMA TV AKSIYON 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20967
+#EXTINF: -1 tvg-name="TR:SINEMA TV AKSIYON HD" group-title="TURKEY", TR:SINEMA TV AKSIYON HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20968
+#EXTINF: -1 tvg-name="TR:SINEMA TV HD" group-title="TURKEY", TR:SINEMA TV HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20969
+#EXTINF: -1 tvg-name="TR:SINEMA TV KOMEDI 2 HD" group-title="TURKEY", TR:SINEMA TV KOMEDI 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20970
+#EXTINF: -1 tvg-name="TR:SINEMA TV KOMEDI HD" group-title="TURKEY", TR:SINEMA TV KOMEDI HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20971
+#EXTINF: -1 tvg-name="TR:VIP CINEMA" group-title="TURKEY", TR:VIP CINEMA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20972
+#EXTINF: -1 tvg-name="TR:VIP COMEDY HD" group-title="TURKEY", TR:VIP COMEDY HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20973
+#EXTINF: -1 tvg-name="TR:VIP CUNEYT ARKIN TV" group-title="TURKEY", TR:VIP CUNEYT ARKIN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20974
+#EXTINF: -1 tvg-name="TR:VIP KEMAL SUNAL TV" group-title="TURKEY", TR:VIP KEMAL SUNAL TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20975
+#EXTINF: -1 tvg-name="TR:VIP KORKU HD" group-title="TURKEY", TR:VIP KORKU HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20976
+#EXTINF: -1 tvg-name="TR:VIP NETFLIX" group-title="TURKEY", TR:VIP NETFLIX
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20978
+#EXTINF: -1 tvg-name="TR:VIP NOSTALGIE HD" group-title="TURKEY", TR:VIP NOSTALGIE HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20979
+#EXTINF: -1 tvg-name="TR:VIP SABAN TV" group-title="TURKEY", TR:VIP SABAN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20980
+#EXTINF: -1 tvg-name="TR:VIP SENER SEN TV" group-title="TURKEY", TR:VIP SENER SEN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20983
+#EXTINF: -1 tvg-name="TR:VIP YESILCAM" group-title="TURKEY", TR:VIP YESILCAM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20984
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:PREMIER VIZIOON" group-title="TURKEY", TR:PREMIER VIZIOON
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5955
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:VIP BOX HD" group-title="TURKEY", TR:VIP BOX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/5957
+#EXTINF: -1 tvg-name="TR:FILMBOX ACTION" group-title="TURKEY", TR:FILMBOX ACTION
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20946
+#EXTINF: -1 tvg-name="TR:FILMBOX BILIMKURGU" group-title="TURKEY", TR:FILMBOX BILIMKURGU
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20947
+#EXTINF: -1 tvg-name="TR:FILMBOX COMEDY" group-title="TURKEY", TR:FILMBOX COMEDY
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20948
+#EXTINF: -1 tvg-name="TR:FILMBOX CUNEYT ARKIN TV" group-title="TURKEY", TR:FILMBOX CUNEYT ARKIN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20949
+#EXTINF: -1 tvg-name="TR:FILMBOX DRAMA" group-title="TURKEY", TR:FILMBOX DRAMA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20950
+#EXTINF: -1 tvg-name="TR:FILMBOX FAMILY" group-title="TURKEY", TR:FILMBOX FAMILY
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20951
+#EXTINF: -1 tvg-name="TR:FILMBOX FANTASTIC" group-title="TURKEY", TR:FILMBOX FANTASTIC
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20952
+#EXTINF: -1 tvg-name="TR:FILMBOX HORROR" group-title="TURKEY", TR:FILMBOX HORROR
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20953
+#EXTINF: -1 tvg-name="TR:FILMBOX ILYAS SALMAN TV" group-title="TURKEY", TR:FILMBOX ILYAS SALMAN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20954
+#EXTINF: -1 tvg-name="TR:FILMBOX KADIR INANIR TV" group-title="TURKEY", TR:FILMBOX KADIR INANIR TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20955
+#EXTINF: -1 tvg-name="TR:FILMBOX KEMAL SUNAL TV" group-title="TURKEY", TR:FILMBOX KEMAL SUNAL TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20956
+#EXTINF: -1 tvg-name="TR:FILMBOX SENER SEN TV" group-title="TURKEY", TR:FILMBOX SENER SEN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20957
+#EXTINF: -1 tvg-name="TR:FILMBOX TARIK AKAN TV" group-title="TURKEY", TR:FILMBOX TARIK AKAN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20958
+#EXTINF: -1 tvg-name="TR:FILMBOX YERLI" group-title="TURKEY", TR:FILMBOX YERLI
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20959
+#EXTINF: -1 tvg-name="TR:FILMBOX YESILCAM" group-title="TURKEY", TR:FILMBOX YESILCAM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20960
+#EXTINF: -1 tvg-name="TR:FILMBOX ZEKI & METIN TV" group-title="TURKEY", TR:FILMBOX ZEKI & METIN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20961
+#EXTINF: -1 tvg-name="TR:KEMAL SUNAL HD*" group-title="TURKEY", TR:KEMAL SUNAL HD*
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6489
+#EXTINF: -1 tvg-name="TR:SENER SEN TV" group-title="TURKEY", TR:SENER SEN TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20751
+#EXTINF: -1 tvg-name="TR:DIZISMART PREMIUM HD" group-title="TURKEY", TR:DIZISMART PREMIUM HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/7407
+#EXTINF: -1 tvg-name="TR:FX CRiME HD" group-title="TURKEY", TR:FX CRiME HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/361
+#EXTINF: -1 tvg-id="FX.tr" tvg-name="TR:FX HD" group-title="TURKEY", TR:FX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/363
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:DiZi SMART MAX HD" group-title="TURKEY", TR:DiZi SMART MAX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/334
+#EXTINF: -1 tvg-name="TR:DIZI SMART PREMIUM HD" group-title="TURKEY", TR:DIZI SMART PREMIUM HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/335
+#EXTINF: -1 tvg-id="NULL" tvg-name="TR:YESILCAM BOX 2" group-title="TURKEY", TR:YESILCAM BOX 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/6471
+#EXTINF: -1 tvg-name="TR:Max Animasyon HD" group-title="TURKEY", TR:Max Animasyon HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/7435
+#EXTINF: -1 tvg-name="TR:Max Animasyon 2 HD" group-title="TURKEY", TR:Max Animasyon 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/7436
+#EXTINF: -1 tvg-name="TR:MAX 4K UHD" group-title="TURKEY", TR:MAX 4K UHD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17125
+#EXTINF: -1 tvg-name="TR:MAX Vizyon 2 HD" group-title="TURKEY", TR:MAX Vizyon 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17127
+#EXTINF: -1 tvg-name="TR:MAX Vizyon 3 HD" group-title="TURKEY", TR:MAX Vizyon 3 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17128
+#EXTINF: -1 tvg-name="TR:MAX Vizyon 4 HD" group-title="TURKEY", TR:MAX Vizyon 4 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17129
+#EXTINF: -1 tvg-name="TR:MAX TURK HD" group-title="TURKEY", TR:MAX TURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17130
+#EXTINF: -1 tvg-name="TR:MAX PLUS HD" group-title="TURKEY", TR:MAX PLUS HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17131
+#EXTINF: -1 tvg-name="TR:MAX GOLD TR" group-title="TURKEY", TR:MAX GOLD TR
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17132
+#EXTINF: -1 tvg-name="TR:Max Premier HD" group-title="TURKEY", TR:Max Premier HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17133
+#EXTINF: -1 tvg-name="TR:Max Orjinal HD" group-title="TURKEY", TR:Max Orjinal HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17134
+#EXTINF: -1 tvg-name="TR:Max Western HD" group-title="TURKEY", TR:Max Western HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17135
+#EXTINF: -1 tvg-name="TR:ENO AiLE 1" group-title="TURKEY", TR:ENO AiLE 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17156
+#EXTINF: -1 tvg-name="TR:ENO AiLE 2" group-title="TURKEY", TR:ENO AiLE 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17157
+#EXTINF: -1 tvg-name="TR:ENO AKSiYON 1" group-title="TURKEY", TR:ENO AKSiYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17158
+#EXTINF: -1 tvg-name="TR:ENO AKSiYON 2" group-title="TURKEY", TR:ENO AKSiYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17159
+#EXTINF: -1 tvg-name="TR:ENO COCUK 1" group-title="TURKEY", TR:ENO COCUK 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17160
+#EXTINF: -1 tvg-name="TR:ENO COCUK 2" group-title="TURKEY", TR:ENO COCUK 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17161
+#EXTINF: -1 tvg-name="TR:ENO HINT 1" group-title="TURKEY", TR:ENO HINT 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17162
+#EXTINF: -1 tvg-name="TR:ENO HINT 2" group-title="TURKEY", TR:ENO HINT 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17163
+#EXTINF: -1 tvg-name="TR:ENO MACERA 1" group-title="TURKEY", TR:ENO MACERA 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17164
+#EXTINF: -1 tvg-name="TR:ENO MACERA 2" group-title="TURKEY", TR:ENO MACERA 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17165
+#EXTINF: -1 tvg-name="TR:ENO TURK 1" group-title="TURKEY", TR:ENO TURK 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17166
+#EXTINF: -1 tvg-name="TR:ENO TURK 2" group-title="TURKEY", TR:ENO TURK 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17167
+#EXTINF: -1 tvg-name="TR:ENO TURK 3" group-title="TURKEY", TR:ENO TURK 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17168
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 1" group-title="TURKEY", TR:ENO VIZYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17169
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 2" group-title="TURKEY", TR:ENO VIZYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17170
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 3" group-title="TURKEY", TR:ENO VIZYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17171
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 4" group-title="TURKEY", TR:ENO VIZYON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17172
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 5" group-title="TURKEY", TR:ENO VIZYON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17173
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 6" group-title="TURKEY", TR:ENO VIZYON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17174
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 7" group-title="TURKEY", TR:ENO VIZYON 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17175
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 8" group-title="TURKEY", TR:ENO VIZYON 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17176
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 9" group-title="TURKEY", TR:ENO VIZYON 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17177
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 10" group-title="TURKEY", TR:ENO VIZYON 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17178
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 11" group-title="TURKEY", TR:ENO VIZYON 11
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17179
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 12" group-title="TURKEY", TR:ENO VIZYON 12
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17180
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 13" group-title="TURKEY", TR:ENO VIZYON 13
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17181
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 14" group-title="TURKEY", TR:ENO VIZYON 14
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17182
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 15" group-title="TURKEY", TR:ENO VIZYON 15
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17183
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 16" group-title="TURKEY", TR:ENO VIZYON 16
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17184
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 17" group-title="TURKEY", TR:ENO VIZYON 17
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17185
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 18" group-title="TURKEY", TR:ENO VIZYON 18
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17186
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 19" group-title="TURKEY", TR:ENO VIZYON 19
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17187
+#EXTINF: -1 tvg-name="TR:ENO VIZYON 20" group-title="TURKEY", TR:ENO VIZYON 20
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17188
+#EXTINF: -1 tvg-name="TR:ENO WESTERN 1" group-title="TURKEY", TR:ENO WESTERN 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17189
+#EXTINF: -1 tvg-name="TR:ENO YESILCAM 1" group-title="TURKEY", TR:ENO YESILCAM 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17190
+#EXTINF: -1 tvg-name="TR:ENO YESILCAM 2" group-title="TURKEY", TR:ENO YESILCAM 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17191
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 1" group-title="TURKEY", TR:SINEVIZYON TURK 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17192
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 2" group-title="TURKEY", TR:SINEVIZYON TURK 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17193
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 3" group-title="TURKEY", TR:SINEVIZYON TURK 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17194
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 4" group-title="TURKEY", TR:SINEVIZYON TURK 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17195
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 5" group-title="TURKEY", TR:SINEVIZYON TURK 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17196
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 6" group-title="TURKEY", TR:SINEVIZYON TURK 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17197
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 7" group-title="TURKEY", TR:SINEVIZYON TURK 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17198
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 8" group-title="TURKEY", TR:SINEVIZYON TURK 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17199
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 9" group-title="TURKEY", TR:SINEVIZYON TURK 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17200
+#EXTINF: -1 tvg-name="TR:SINEVIZYON TURK 10" group-title="TURKEY", TR:SINEVIZYON TURK 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17201
+#EXTINF: -1 tvg-name="TR:SINEVIZYON NOSTALJI 1" group-title="TURKEY", TR:SINEVIZYON NOSTALJI 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17202
+#EXTINF: -1 tvg-name="TR:SINEVIZYON NOSTALJI 2" group-title="TURKEY", TR:SINEVIZYON NOSTALJI 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17203
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 1" group-title="TURKEY", TR:MULTIVIZYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17618
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 2" group-title="TURKEY", TR:MULTIVIZYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17619
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 3" group-title="TURKEY", TR:MULTIVIZYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17620
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 4" group-title="TURKEY", TR:MULTIVIZYON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17621
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 5" group-title="TURKEY", TR:MULTIVIZYON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17622
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 6" group-title="TURKEY", TR:MULTIVIZYON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17623
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 7" group-title="TURKEY", TR:MULTIVIZYON 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17624
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 8" group-title="TURKEY", TR:MULTIVIZYON 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17625
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 9" group-title="TURKEY", TR:MULTIVIZYON 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17626
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 10" group-title="TURKEY", TR:MULTIVIZYON 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17627
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 11" group-title="TURKEY", TR:MULTIVIZYON 11
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17628
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 12" group-title="TURKEY", TR:MULTIVIZYON 12
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17629
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 13" group-title="TURKEY", TR:MULTIVIZYON 13
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17630
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 14" group-title="TURKEY", TR:MULTIVIZYON 14
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17631
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 15" group-title="TURKEY", TR:MULTIVIZYON 15
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17632
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 16" group-title="TURKEY", TR:MULTIVIZYON 16
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17633
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 17" group-title="TURKEY", TR:MULTIVIZYON 17
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17634
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 18" group-title="TURKEY", TR:MULTIVIZYON 18
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17635
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 19" group-title="TURKEY", TR:MULTIVIZYON 19
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17636
+#EXTINF: -1 tvg-name="TR:MULTIVIZYON 20" group-title="TURKEY", TR:MULTIVIZYON 20
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17637
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 1" group-title="TURKEY", TR:SINEVIZYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17638
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 2" group-title="TURKEY", TR:SINEVIZYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17639
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 4" group-title="TURKEY", TR:SINEVIZYON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17641
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 5" group-title="TURKEY", TR:SINEVIZYON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17642
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 6" group-title="TURKEY", TR:SINEVIZYON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17643
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 7" group-title="TURKEY", TR:SINEVIZYON 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17644
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 8" group-title="TURKEY", TR:SINEVIZYON 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17645
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 9" group-title="TURKEY", TR:SINEVIZYON 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17646
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 10" group-title="TURKEY", TR:SINEVIZYON 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17647
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 11" group-title="TURKEY", TR:SINEVIZYON 11
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17648
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 12" group-title="TURKEY", TR:SINEVIZYON 12
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17649
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 13" group-title="TURKEY", TR:SINEVIZYON 13
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17650
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 14" group-title="TURKEY", TR:SINEVIZYON 14
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17651
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 15" group-title="TURKEY", TR:SINEVIZYON 15
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17652
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 16" group-title="TURKEY", TR:SINEVIZYON 16
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17653
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 17" group-title="TURKEY", TR:SINEVIZYON 17
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17654
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 18" group-title="TURKEY", TR:SINEVIZYON 18
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17655
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 19" group-title="TURKEY", TR:SINEVIZYON 19
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17656
+#EXTINF: -1 tvg-name="TR:SINEVIZYON 20" group-title="TURKEY", TR:SINEVIZYON 20
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/17657
+#EXTINF: -1 tvg-name="TR:iFlix Drama HD" group-title="TURKEY", TR:iFlix Drama HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18251
+#EXTINF: -1 tvg-name="TR:iFlix Hint HD" group-title="TURKEY", TR:iFlix Hint HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18254
+#EXTINF: -1 tvg-name="TR:iFlix Music HD" group-title="TURKEY", TR:iFlix Music HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18256
+#EXTINF: -1 tvg-name="TR:iFlix imdb100 HD" group-title="TURKEY", TR:iFlix imdb100 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18257
+#EXTINF: -1 tvg-name="TR:BOSS MOVIES 2 HD" group-title="TURKEY", TR:BOSS MOVIES 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18259
+#EXTINF: -1 tvg-name="TR:BOSS MOVIES 4 HD" group-title="TURKEY", TR:BOSS MOVIES 4 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18261
+#EXTINF: -1 tvg-name="TR:BOSS MOVIES 6 HD" group-title="TURKEY", TR:BOSS MOVIES 6 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18263
+#EXTINF: -1 tvg-name="TR:BOSS MOVIES 8 HD" group-title="TURKEY", TR:BOSS MOVIES 8 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18265
+#EXTINF: -1 tvg-name="TR:BOSS MOVIES 9 HD" group-title="TURKEY", TR:BOSS MOVIES 9 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/18266
+#EXTINF: -1 tvg-name="TR:MAX AKSIYON" group-title="TURKEY", TR:MAX AKSIYON
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19459
+#EXTINF: -1 tvg-name="TR:GULDUR GULDUR SHOW" group-title="TURKEY", TR:GULDUR GULDUR SHOW
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19929
+#EXTINF: -1 tvg-name="TR:Hallmark HD" group-title="TURKEY", TR:Hallmark HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19930
+#EXTINF: -1 tvg-name="TR:MGM HD" group-title="TURKEY", TR:MGM HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19931
+#EXTINF: -1 tvg-name="TR:FiberBox Aksiyon HD" group-title="TURKEY", TR:FiberBox Aksiyon HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19940
+#EXTINF: -1 tvg-name="TR:FiberBox Animasyon HD" group-title="TURKEY", TR:FiberBox Animasyon HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19941
+#EXTINF: -1 tvg-name="TR:FiberBox Dram HD" group-title="TURKEY", TR:FiberBox Dram HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19942
+#EXTINF: -1 tvg-name="TR:FiberBox Fantastik HD" group-title="TURKEY", TR:FiberBox Fantastik HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19943
+#EXTINF: -1 tvg-name="TR:FiberBox Komedi HD" group-title="TURKEY", TR:FiberBox Komedi HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19944
+#EXTINF: -1 tvg-name="TR:FiberBox Korku HD" group-title="TURKEY", TR:FiberBox Korku HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19945
+#EXTINF: -1 tvg-name="TR:FiberBox Yesilcam HD" group-title="TURKEY", TR:FiberBox Yesilcam HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19947
+#EXTINF: -1 tvg-name="TR:NEXTBOX LOCA 3" group-title="TURKEY", TR:NEXTBOX LOCA 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19959
+#EXTINF: -1 tvg-name="TR:NEXTBOX LOCA 7" group-title="TURKEY", TR:NEXTBOX LOCA 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/19961
+#EXTINF: -1 tvg-name="TR:ENO KURTLAR VADISI" group-title="TURKEY", TR:ENO KURTLAR VADISI
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20137
+#EXTINF: -1 tvg-name="TR:FILMHD SALONDA NE VAR" group-title="TURKEY", TR:FILMHD SALONDA NE VAR
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20505
+#EXTINF: -1 tvg-name="TR:FILMHD 1" group-title="TURKEY", TR:FILMHD 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20506
+#EXTINF: -1 tvg-name="TR:FILMHD 2" group-title="TURKEY", TR:FILMHD 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20507
+#EXTINF: -1 tvg-name="TR:FILMHD 3" group-title="TURKEY", TR:FILMHD 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20508
+#EXTINF: -1 tvg-name="TR:FILMHD 4" group-title="TURKEY", TR:FILMHD 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20509
+#EXTINF: -1 tvg-name="TR:FILMHD 5" group-title="TURKEY", TR:FILMHD 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20510
+#EXTINF: -1 tvg-name="TR:FILMHD 6" group-title="TURKEY", TR:FILMHD 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20511
+#EXTINF: -1 tvg-name="TR:FILMHD 7" group-title="TURKEY", TR:FILMHD 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20512
+#EXTINF: -1 tvg-name="TR:FILMHD 8" group-title="TURKEY", TR:FILMHD 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20513
+#EXTINF: -1 tvg-name="TR:FILMHD 9" group-title="TURKEY", TR:FILMHD 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20514
+#EXTINF: -1 tvg-name="TR:FILMHD 10" group-title="TURKEY", TR:FILMHD 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20515
+#EXTINF: -1 tvg-name="TR:FILMHD 11" group-title="TURKEY", TR:FILMHD 11
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20516
+#EXTINF: -1 tvg-name="TR:FILMHD 12" group-title="TURKEY", TR:FILMHD 12
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20517
+#EXTINF: -1 tvg-name="TR:FILMHD 13" group-title="TURKEY", TR:FILMHD 13
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20518
+#EXTINF: -1 tvg-name="TR:FILMHD 14" group-title="TURKEY", TR:FILMHD 14
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20519
+#EXTINF: -1 tvg-name="TR:FILMHD 15" group-title="TURKEY", TR:FILMHD 15
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20520
+#EXTINF: -1 tvg-name="TR:FILMHD 16" group-title="TURKEY", TR:FILMHD 16
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20521
+#EXTINF: -1 tvg-name="TR:FILMHD 17" group-title="TURKEY", TR:FILMHD 17
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20522
+#EXTINF: -1 tvg-name="TR:FILMHD 18" group-title="TURKEY", TR:FILMHD 18
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/20523
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 1" group-title="TURKEY", TR:EURO LOCA SALON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21264
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 2" group-title="TURKEY", TR:EURO LOCA SALON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21265
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 3" group-title="TURKEY", TR:EURO LOCA SALON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21266
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 4" group-title="TURKEY", TR:EURO LOCA SALON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21267
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 5" group-title="TURKEY", TR:EURO LOCA SALON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21268
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 6" group-title="TURKEY", TR:EURO LOCA SALON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21269
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 7" group-title="TURKEY", TR:EURO LOCA SALON 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21270
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 8" group-title="TURKEY", TR:EURO LOCA SALON 8
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21271
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 9" group-title="TURKEY", TR:EURO LOCA SALON 9
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21272
+#EXTINF: -1 tvg-name="TR:EURO LOCA SALON 10" group-title="TURKEY", TR:EURO LOCA SALON 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21273
+#EXTINF: -1 tvg-name="TR:POPCORN GOLD" group-title="TURKEY", TR:POPCORN GOLD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21285
+#EXTINF: -1 tvg-name="TR:POPCORN CASUZLUK" group-title="TURKEY", TR:POPCORN CASUZLUK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21286
+#EXTINF: -1 tvg-name="TR:POPCORN SENER SEN" group-title="TURKEY", TR:POPCORN SENER SEN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21287
+#EXTINF: -1 tvg-name="TR:POPCORN KEMAL SUNAL" group-title="TURKEY", TR:POPCORN KEMAL SUNAL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21288
+#EXTINF: -1 tvg-name="TR:POPCORN WESTERN" group-title="TURKEY", TR:POPCORN WESTERN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21289
+#EXTINF: -1 tvg-name="TR:YESILCAM AYHAN ISIK" group-title="TURKEY", TR:YESILCAM AYHAN ISIK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21310
+#EXTINF: -1 tvg-name="TR:YESILCAM CUNEYT ARKIN" group-title="TURKEY", TR:YESILCAM CUNEYT ARKIN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21311
+#EXTINF: -1 tvg-name="TR:YESILCAM EROL TAS" group-title="TURKEY", TR:YESILCAM EROL TAS
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21312
+#EXTINF: -1 tvg-name="TR:YESILCAM FATMA GIRIK" group-title="TURKEY", TR:YESILCAM FATMA GIRIK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21313
+#EXTINF: -1 tvg-name="TR:YESILCAM FILIZ AKIN" group-title="TURKEY", TR:YESILCAM FILIZ AKIN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21314
+#EXTINF: -1 tvg-name="TR:YESILCAM HULYA KOCYIGIT" group-title="TURKEY", TR:YESILCAM HULYA KOCYIGIT
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21315
+#EXTINF: -1 tvg-name="TR:YESILCAM ILYAS SALMAN" group-title="TURKEY", TR:YESILCAM ILYAS SALMAN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21316
+#EXTINF: -1 tvg-name="TR:YESILCAM KADIR INANIR" group-title="TURKEY", TR:YESILCAM KADIR INANIR
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21317
+#EXTINF: -1 tvg-name="TR:YESILCAM KARISIK" group-title="TURKEY", TR:YESILCAM KARISIK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21318
+#EXTINF: -1 tvg-name="TR:YESILCAM KAZIM KARTAL" group-title="TURKEY", TR:YESILCAM KAZIM KARTAL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21319
+#EXTINF: -1 tvg-name="TR:YESILCAM KEMAL SUNAL" group-title="TURKEY", TR:YESILCAM KEMAL SUNAL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21320
+#EXTINF: -1 tvg-name="TR:YESILCAM MUNIR OZKUL" group-title="TURKEY", TR:YESILCAM MUNIR OZKUL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21321
+#EXTINF: -1 tvg-name="TR:YESILCAM SENER SEN" group-title="TURKEY", TR:YESILCAM SENER SEN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21322
+#EXTINF: -1 tvg-name="TR:YESILCAM TARIK AKAN" group-title="TURKEY", TR:YESILCAM TARIK AKAN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21323
+#EXTINF: -1 tvg-name="TR:YESILCAM TURKAN SORAY" group-title="TURKEY", TR:YESILCAM TURKAN SORAY
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21324
+#EXTINF: -1 tvg-name="TR:YESILCAM YILMAZ GUNEY" group-title="TURKEY", TR:YESILCAM YILMAZ GUNEY
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21325
+#EXTINF: -1 tvg-name="TR:YESILCAM ZEKI METIN" group-title="TURKEY", TR:YESILCAM ZEKI METIN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/21326
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 1" group-title="TURKEY", TR:SINEMA MIX 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22186
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 2" group-title="TURKEY", TR:SINEMA MIX 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22187
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 3" group-title="TURKEY", TR:SINEMA MIX 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22188
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 4" group-title="TURKEY", TR:SINEMA MIX 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22189
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 5" group-title="TURKEY", TR:SINEMA MIX 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22190
+#EXTINF: -1 tvg-name="TR:SINEMA COCUK" group-title="TURKEY", TR:SINEMA COCUK
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22205
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 1" group-title="TURKEY", TR:SINEMA ANIMASYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22206
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 2" group-title="TURKEY", TR:SINEMA ANIMASYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22207
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 3" group-title="TURKEY", TR:SINEMA ANIMASYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22208
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 1" group-title="TURKEY", TR:SINEMA AKSIYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22209
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 2" group-title="TURKEY", TR:SINEMA AKSIYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22210
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 3" group-title="TURKEY", TR:SINEMA AKSIYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22211
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 4" group-title="TURKEY", TR:SINEMA AKSIYON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22212
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 5" group-title="TURKEY", TR:SINEMA AKSIYON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22213
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 6" group-title="TURKEY", TR:SINEMA AKSIYON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22214
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 1" group-title="TURKEY", TR:SINEMA BILIM KURGU 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22215
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 2" group-title="TURKEY", TR:SINEMA BILIM KURGU 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22216
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 3" group-title="TURKEY", TR:SINEMA BILIM KURGU 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22217
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 1" group-title="TURKEY", TR:SINEMA KOMEDI 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22218
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 2" group-title="TURKEY", TR:SINEMA KOMEDI 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22219
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 3" group-title="TURKEY", TR:SINEMA KOMEDI 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22220
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 4" group-title="TURKEY", TR:SINEMA KOMEDI 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22221
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 5" group-title="TURKEY", TR:SINEMA KOMEDI 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22222
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 1" group-title="TURKEY", TR:SINEMA DRAMA 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22223
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 2" group-title="TURKEY", TR:SINEMA DRAMA 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22224
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 3" group-title="TURKEY", TR:SINEMA DRAMA 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22225
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 4" group-title="TURKEY", TR:SINEMA DRAMA 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22226
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 5" group-title="TURKEY", TR:SINEMA DRAMA 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22227
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 6" group-title="TURKEY", TR:SINEMA DRAMA 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22228
+#EXTINF: -1 tvg-name="TR:SINEMA YESILCAM" group-title="TURKEY", TR:SINEMA YESILCAM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22229
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 1" group-title="TURKEY", TR:SINEMA TURK 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22230
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 2" group-title="TURKEY", TR:SINEMA TURK 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22231
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 3" group-title="TURKEY", TR:SINEMA TURK 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22232
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 4" group-title="TURKEY", TR:SINEMA TURK 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22233
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 5" group-title="TURKEY", TR:SINEMA TURK 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22234
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 1" group-title="TURKEY", TR:SINEMA KORKU 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22236
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 2" group-title="TURKEY", TR:SINEMA KORKU 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22237
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 3" group-title="TURKEY", TR:SINEMA KORKU 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22238
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 4" group-title="TURKEY", TR:SINEMA KORKU 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22239
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA AKSIYON" group-title="TURKEY", TR:GOLD CINEMA AKSIYON
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22534
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA ANIMASYON" group-title="TURKEY", TR:GOLD CINEMA ANIMASYON
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22535
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA BILIM KURGU" group-title="TURKEY", TR:GOLD CINEMA BILIM KURGU
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22536
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA DRAM" group-title="TURKEY", TR:GOLD CINEMA DRAM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22537
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA MACERA" group-title="TURKEY", TR:GOLD CINEMA MACERA
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22541
+#EXTINF: -1 tvg-name="TR:GOLD CINEMA YERLI" group-title="TURKEY", TR:GOLD CINEMA YERLI
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/22543
+#EXTINF: -1 tvg-name="TR:REDBOX 1" group-title="TURKEY", TR:REDBOX 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24247
+#EXTINF: -1 tvg-name="TR:REDBOX 3D" group-title="TURKEY", TR:REDBOX 3D
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24248
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 1" group-title="TURKEY", TR:REDBOX AKSIYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24249
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 2" group-title="TURKEY", TR:REDBOX AKSIYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24250
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 3" group-title="TURKEY", TR:REDBOX AKSIYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24251
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 4" group-title="TURKEY", TR:REDBOX AKSIYON 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24252
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 5" group-title="TURKEY", TR:REDBOX AKSIYON 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24253
+#EXTINF: -1 tvg-name="TR:REDBOX AKSIYON 6" group-title="TURKEY", TR:REDBOX AKSIYON 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24254
+#EXTINF: -1 tvg-name="TR:REDBOX ANIMASYON 1" group-title="TURKEY", TR:REDBOX ANIMASYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24255
+#EXTINF: -1 tvg-name="TR:REDBOX ANIMASYON 2" group-title="TURKEY", TR:REDBOX ANIMASYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24256
+#EXTINF: -1 tvg-name="TR:REDBOX ANIMASYON 3" group-title="TURKEY", TR:REDBOX ANIMASYON 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24257
+#EXTINF: -1 tvg-name="TR:REDBOX ARABESK TV" group-title="TURKEY", TR:REDBOX ARABESK TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24258
+#EXTINF: -1 tvg-name="TR:REDBOX BELGESEL" group-title="TURKEY", TR:REDBOX BELGESEL
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24259
+#EXTINF: -1 tvg-name="TR:REDBOX BILIMKURGU 1" group-title="TURKEY", TR:REDBOX BILIMKURGU 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24260
+#EXTINF: -1 tvg-name="TR:REDBOX BILIMKURGU 2" group-title="TURKEY", TR:REDBOX BILIMKURGU 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24261
+#EXTINF: -1 tvg-name="TR:REDBOX BILIMKURGU 3" group-title="TURKEY", TR:REDBOX BILIMKURGU 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24262
+#EXTINF: -1 tvg-name="TR:REDBOX BOXSET" group-title="TURKEY", TR:REDBOX BOXSET
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24263
+#EXTINF: -1 tvg-name="TR:REDBOX CEM YILMAZ" group-title="TURKEY", TR:REDBOX CEM YILMAZ
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24264
+#EXTINF: -1 tvg-name="TR:REDBOX CIZGI FILM" group-title="TURKEY", TR:REDBOX CIZGI FILM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24265
+#EXTINF: -1 tvg-name="TR:REDBOX Drama 1" group-title="TURKEY", TR:REDBOX Drama 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24266
+#EXTINF: -1 tvg-name="TR:REDBOX DRAMA 2" group-title="TURKEY", TR:REDBOX DRAMA 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24267
+#EXTINF: -1 tvg-name="TR:REDBOX Drama 3" group-title="TURKEY", TR:REDBOX Drama 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24268
+#EXTINF: -1 tvg-name="TR:REDBOX GOLD MIX" group-title="TURKEY", TR:REDBOX GOLD MIX
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24269
+#EXTINF: -1 tvg-name="TR:REDBOX KEMAL SUNAL TV" group-title="TURKEY", TR:REDBOX KEMAL SUNAL TV
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24270
+#EXTINF: -1 tvg-name="TR:REDBOX Komedi 1" group-title="TURKEY", TR:REDBOX Komedi 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24271
+#EXTINF: -1 tvg-name="TR:REDBOX KOMEDI 2" group-title="TURKEY", TR:REDBOX KOMEDI 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24272
+#EXTINF: -1 tvg-name="TR:REDBOX KOMEDI 3" group-title="TURKEY", TR:REDBOX KOMEDI 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24273
+#EXTINF: -1 tvg-name="TR:REDBOX Korku 1" group-title="TURKEY", TR:REDBOX Korku 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24274
+#EXTINF: -1 tvg-name="TR:REDBOX Korku 2" group-title="TURKEY", TR:REDBOX Korku 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24275
+#EXTINF: -1 tvg-name="TR:REDBOX KORKU 3" group-title="TURKEY", TR:REDBOX KORKU 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24276
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 1" group-title="TURKEY", TR:REDBOX Mix 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24277
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 10" group-title="TURKEY", TR:REDBOX Mix 10
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24278
+#EXTINF: -1 tvg-name="TR:REDBOX MIX 2" group-title="TURKEY", TR:REDBOX MIX 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24279
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 3" group-title="TURKEY", TR:REDBOX Mix 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24280
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 4" group-title="TURKEY", TR:REDBOX Mix 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24281
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 5" group-title="TURKEY", TR:REDBOX Mix 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24282
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 6" group-title="TURKEY", TR:REDBOX Mix 6
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24283
+#EXTINF: -1 tvg-name="TR:REDBOX Mix 7" group-title="TURKEY", TR:REDBOX Mix 7
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24284
+#EXTINF: -1 tvg-name="TR:REDBOX PREMIERE" group-title="TURKEY", TR:REDBOX PREMIERE
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24285
+#EXTINF: -1 tvg-name="TR:REDBOX SINEMA TURK 1" group-title="TURKEY", TR:REDBOX SINEMA TURK 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24286
+#EXTINF: -1 tvg-name="TR:REDBOX SINEMA TURK 2" group-title="TURKEY", TR:REDBOX SINEMA TURK 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24287
+#EXTINF: -1 tvg-name="TR:REDBOX SINEMA TURK 3" group-title="TURKEY", TR:REDBOX SINEMA TURK 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24288
+#EXTINF: -1 tvg-name="TR:REDBOX STAR WARS" group-title="TURKEY", TR:REDBOX STAR WARS
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24289
+#EXTINF: -1 tvg-name="TR:REDBOX TURKEY 1" group-title="TURKEY", TR:REDBOX TURKEY 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24290
+#EXTINF: -1 tvg-name="TR:REDBOX TURKEY 2" group-title="TURKEY", TR:REDBOX TURKEY 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24291
+#EXTINF: -1 tvg-name="TR:REDBOX TURKEY 3" group-title="TURKEY", TR:REDBOX TURKEY 3
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24292
+#EXTINF: -1 tvg-name="TR:REDBOX TURKEY 4" group-title="TURKEY", TR:REDBOX TURKEY 4
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24293
+#EXTINF: -1 tvg-name="TR:REDBOX TURKEY 5" group-title="TURKEY", TR:REDBOX TURKEY 5
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24294
+#EXTINF: -1 tvg-name="TR:REDBOX VIZYON 1" group-title="TURKEY", TR:REDBOX VIZYON 1
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24295
+#EXTINF: -1 tvg-name="TR:REDBOX VIZYON 2" group-title="TURKEY", TR:REDBOX VIZYON 2
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24296
+#EXTINF: -1 tvg-name="TR:REDBOX WESTERN" group-title="TURKEY", TR:REDBOX WESTERN
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24297
+#EXTINF: -1 tvg-name="TR:REDBOX YESILCAM" group-title="TURKEY", TR:REDBOX YESILCAM
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/24298
+#EXTINF: -1 tvg-name="TR:DREAM LOCA 1 HD" group-title="TURKEY", TR:DREAM LOCA 1 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43121
+#EXTINF: -1 tvg-name="TR:DREAM LOCA 2 HD" group-title="TURKEY", TR:DREAM LOCA 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43122
+#EXTINF: -1 tvg-name="TR:DREAM VIZYON HD" group-title="TURKEY", TR:DREAM VIZYON HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43123
+#EXTINF: -1 tvg-name="TR:DREAM PREMIERE HD" group-title="TURKEY", TR:DREAM PREMIERE HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43124
+#EXTINF: -1 tvg-name="TR:DREAM NETFLIX HD" group-title="TURKEY", TR:DREAM NETFLIX HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43125
+#EXTINF: -1 tvg-name="TR:DREAM TURK HD" group-title="TURKEY", TR:DREAM TURK HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43126
+#EXTINF: -1 tvg-name="TR:DREAM ACTION HD" group-title="TURKEY", TR:DREAM ACTION HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43127
+#EXTINF: -1 tvg-name="TR:DREAM HORROR HD" group-title="TURKEY", TR:DREAM HORROR HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43128
+#EXTINF: -1 tvg-name="TR:DREAM BOND 007 HD" group-title="TURKEY", TR:DREAM BOND 007 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43129
+#EXTINF: -1 tvg-name="TR:DREAM ANIMASYON HD" group-title="TURKEY", TR:DREAM ANIMASYON HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43130
+#EXTINF: -1 tvg-name="TR:VIZIOON PREMIER HD" group-title="TURKEY", TR:VIZIOON PREMIER HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43131
+#EXTINF: -1 tvg-name="TR:VIZIOON PREMIER 2 HD" group-title="TURKEY", TR:VIZIOON PREMIER 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43132
+#EXTINF: -1 tvg-name="TR:VIZIOON FESTIVAL HD" group-title="TURKEY", TR:VIZIOON FESTIVAL HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43133
+#EXTINF: -1 tvg-name="TR:VIZIOON FESTIVAL 2 HD" group-title="TURKEY", TR:VIZIOON FESTIVAL 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43134
+#EXTINF: -1 tvg-name="TR:VIZIOON AILE HD" group-title="TURKEY", TR:VIZIOON AILE HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43135
+#EXTINF: -1 tvg-name="TR:VIZIOON AILE 2 HD" group-title="TURKEY", TR:VIZIOON AILE 2 HD
+http://portal.iptvizle.in:2086/gryuksellacin02/xgreMbta7D/43136
